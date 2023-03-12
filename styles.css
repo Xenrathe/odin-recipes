@@ -1,0 +1,32 @@
+div.centered {
+    text-align: center;
+}
+
+ul.centered{
+    display: table;
+    margin: 0 auto;
+}
+
+.front-page li{
+    font-size: 25px;
+}
+
+.pink{
+    color: lightcoral;
+}
+
+.green{
+    color: green;
+}
+
+.orange{
+    color: orange;
+}
+
+.brown{
+    color: burlywood;
+}
+
+.purple{
+    color: purple;
+}
